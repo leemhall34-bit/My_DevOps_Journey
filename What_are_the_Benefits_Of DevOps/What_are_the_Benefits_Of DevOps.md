@@ -7,5 +7,3 @@
 
 
 <p align = center><image src="../Images/why_devops_benefits.jpg"/></p>
-
-
