@@ -5,7 +5,7 @@
 - [**What is DevOps?**](https://github.com/leemhall34-bit/My_DevOps_Journey/blob/main/What_Is_Devops/What_is_DevOps%3F.md)
 - [**What are the benefits of DevOps?**](https://github.com/leemhall34-bit/My_DevOps_Journey/blob/main/What_are_the_Benefits_Of%20DevOps/What_are_the_Benefits_Of%20DevOps.md)
 - [**What is the role of DevOps?**]
-- [**What the responsibilities of DevOps?**]
+- [**What the responsibilities of DevOps?**](https://github.com/leemhall34-bit/My_DevOps_Journey/blob/main/What_are_the_four_pillars_of_DevOps/Four_pillars_of_DevOps.md)
 
 
 ## <p align =center>**DevOps Software Development Life Cycle (SDLC)**</p>
@@ -15,6 +15,7 @@
     <image src="Images/devops_sdlc.jpg"/>
 
 </p>
+
 
 
 
