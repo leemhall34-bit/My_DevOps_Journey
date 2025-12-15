@@ -12,9 +12,9 @@
  
 
 <p align=center>
-    <image src="Images/devops_sdlc.jpg"/>
-
+    <image src="https://github.com/leemhall34-bit/My_DevOps_Journey/blob/main/DevOps_The_Basics/Images/devops_sdlc.jpg"/>
 </p>
+
 
 
 
