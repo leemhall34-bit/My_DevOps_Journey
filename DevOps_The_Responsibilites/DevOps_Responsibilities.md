@@ -1,12 +1,16 @@
 # DevOps Responsibilities
 
+<<<<<<< HEAD
+![DevOps responsibilities](./DtR_Images/devops_responsibilities.jpg)
+=======
 ![DevOps responsibilities](../DevOps_The_Responsibilites/DtR_Images/devops_responsibilities.jpg)
+>>>>>>> 29a56c0f3841013529d8ea0a7c62618ae0b3c65f
 
 ## Links
 ---
 
-- [**Project Planning**](./Project_Planning.md)
-- [**Application and Infrastructure Development**](./App_and_Infract_Dev.md)
+- [**Project Planning**](./Resouces/Project_Planning.md)
+- [**Application and Infrastructure Development**](./Resouces/App_and_Infract_Dev.md)
 - [**Application and Infrastructure Testing**](./App_and_Infract_Testing.md)
 - [**Automation Implementation**](./Automation_Implementation.md)
 - [**Deployment**](./Deployment.md)
