@@ -1,6 +1,6 @@
 # DevOps Responsibilities
 
-![DevOps responsibilities](./dor_images/devops_responsibilities.jpg)
+![DevOps responsibilities](../DevOps_The_Responsibilites/DtR_Images/devops_responsibilities.jpg)
 
 ## Links
 ---
@@ -15,4 +15,5 @@
 - [**Maintenance**](./Maintenance.md)
 - [**Monitoring**](./Monitoring.md)
 - [**Writing Documentation**](./Writing_Documentation.md)
+
 - [**Security (DevSecOps)**](./Security_devsecOps.md)
